@@ -1,0 +1,6 @@
+@AddressService_HostAddress = http://AddressService:5196
+
+GET {{AddressService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
