@@ -45,7 +45,7 @@ dotnet build
 
 dotnet run
 
-O serviço estará disponível em http://localhost:5000 (ou https://localhost:5001 com SSL) por padrão.
+O serviço estará disponível em http://localhost:5196/swagger/index.html por padrão.
 
 ## Tecnologias Utilizadas
 
