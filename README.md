@@ -56,3 +56,9 @@ O serviço estará disponível em http://localhost:5000 (ou https://localhost:50
 ## SwaggerGen
 
 ![image](https://github.com/LucasSebrian/5_Integracao_Entre_APIs-Azure_SQL/assets/40295405/219576ba-9b72-4be2-b917-7009761073f1)
+
+![image](https://github.com/LucasSebrian/5_Integracao_Entre_APIs-Azure_SQL/assets/40295405/f611d1ed-4e55-4416-9f6a-e7727bdd5fe5)
+
+## Conexão com o Banco 
+
+![image](https://github.com/LucasSebrian/5_Integracao_Entre_APIs-Azure_SQL/assets/40295405/bf7765fe-02c4-4907-aca1-5e8ed7bd0268)
